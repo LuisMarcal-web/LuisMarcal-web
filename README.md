@@ -49,6 +49,6 @@ Combino o **desenvolvimento**, **redes** e **pentest** com **automação em Pyth
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:cf0e0e,50:203a43,100:0f2027" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:cf0e0e,50:203a43,100:cf0e0e" />
 
 </div>
