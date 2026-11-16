@@ -1,58 +1,54 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=shark&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=7CFC00"  />
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&color=0:0f2027,50:203a43,100:00FFFF&text=Guilherme%20Mar%C3%A7al&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Ciberseguran%C3%A7a%20%7C%20Pentest%20%7C%20Automa%C3%A7%C3%A3o&descSize=18&descAlignY=60" />
+
 </div>
 
-###
+## Sobre mim
 
-<h1 align="center">SOBRE MIM</h1>
+Estudante de **Engenharia de Software** com foco na área de **cibersegurança**.
 
-###
+Combino o **desenvolvimento**, **redes** e **pentest** com **automação em Python** e **orquestração de IA** para tornar tarefas de segurança mais rápidas e repetíveis.
 
-<h3 align="center">Graduando em Engenharia de Software 🎓<br>Arquitetura de Software 🎓<br>Estudante de Java 👾<br>Estudante de IA 👾</h3>
+---
 
-###
+## 🛠️ Tecnologias e ambientes
 
-<br clear="both">
+**Sistemas operacionais**
 
-<img align="left" height="218" src="https://giffiles.alphacoders.com/118/118767.gif"  />
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Tails](https://img.shields.io/badge/Tails-56347C?style=for-the-badge&logo=tails&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-###
+**Linguagens**
 
-<div align="right">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="50" alt="java logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="50" alt="spring logo"  />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+**IA e automação**
+
+![Orquestração de IA](https://img.shields.io/badge/Orquestra%C3%A7%C3%A3o_de_IA-6C47FF?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) 
+
+**Infraestrutura e apoio**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+
+## 📫 Contato
+
+<a href="https://www.linkedin.com/in/luis-mar%C3%A7al-b2375231a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00FFFF,50:203a43,100:0f2027" />
+
 </div>
-
-###
-
-<div align="right">
-  <a href="https://www.linkedin.com/in/luis-marçal-b2375231a" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@user-Luiss_Marcal" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuisMarcal-web/LuisMarcal-web/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuisMarcal-web/LuisMarcal-web/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LuisMarcal-web/LuisMarcal-web/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=shark&height=100&section=footer&reversal=false&fontSize=50&fontColor=7CFC00&fontAlign=90&fontAlignY=38&stroke=7CFC00&strokeWidth=-10&descSize=400&descAlign=48&descAlignY=50&textBg=false&color=7CFC00"  />
-</div>
-
-###
